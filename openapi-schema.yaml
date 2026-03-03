@@ -1,0 +1,8 @@
+openapi: 3.0.0
+info:
+  title: Tawk.to Claude Integration API
+    description: Connect tawk.to conversations with Claude for daily updates
+      version: 1.0.0
+      servers:
+        - url: https://api.anthropic.com/v1
+            description: Claude API Server
